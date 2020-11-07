@@ -3,6 +3,8 @@
 I've used the MechaCar_mpg.csv dataset and RScript to design the following multiple linear regression model for predicting 'miles per gallon'(mpg) statistics.
 <img src="readmepics/deliverable1_linear_regression.png">
 
+In the above picture, the variables/coefficents' p-values (Pr(>|t|) are: vehicle length (), vehicle height(), vehicle weight(), spoiler angle(), and ground clearance().
+
 ### 1.) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 It is possible to state that the following variables/coefficients provide a non-random amount of variance to the mpg values provided in the MechaCar_mpg dataset:
  - vehicle length: Pr(>|t|) = 2.60e-12
