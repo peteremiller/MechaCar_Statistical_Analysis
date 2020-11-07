@@ -5,11 +5,11 @@ I've used the MechaCar_mpg.csv dataset and RScript to design the following multi
 
 In the above picture, the variables/coefficents' p-values (Pr(>|t|)) are: 
 
-vehicle length (2.60e-08) 
-vehicle weight(0.0776) 
-spoiler angle(0.3069)
-ground clearance(5.21e-08)
-AWD(All Wheel Drive)(0.1852) 
+- vehicle length (2.60e-08) 
+- vehicle weight(0.0776) 
+- spoiler angle(0.3069)
+- ground clearance(5.21e-08)
+- AWD(All Wheel Drive)(0.1852) 
 
 
 ### 1.) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
