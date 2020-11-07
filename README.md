@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
 I've used the MechaCar_mpg.csv dataset and RScript to design the following multiple linear regression model for predicting 'miles per gallon'(mpg) statistics.
-<img src="readme/deliverable1_linear_regression.png">
+<img src="readmepics/deliverable1_linear_regression.png">
 
 ### 1.) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 It is possible to state that the following variables/coefficients provide a non-random amount of variance to the mpg values provided in the MechaCar_mpg dataset:
