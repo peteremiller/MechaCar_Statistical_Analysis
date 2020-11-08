@@ -27,15 +27,14 @@ P-values (probability values) for the above variables are smaller than our signi
 According to the summary output, the r-squared value is 0.71, which predicts that approximatley 71% of all mpg predictions will be correct when using this linear model. In addition, the p-value of the linear model is 5.35e-11 (last line of the above picture in the F-statistic results), which is smaller (94.65%) than the assigned and assumed significance level of 0.05 (95%).
 
 ## Summary Statistics on Suspension Coils
-<img src="readmepics/.png">
+<img src="readmepics/total_summary_suspension.png">
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+The 'total_summary' picture reveals that the mean is steady at 1498.78 in all 150 rows of the total_summary table. The variance is reported at 62.29356 for all 150 rows of the total_summary table. The standard deviation is reported at 7.892627 for all 150 rows of the total_summary table. The median value of the table varies between 1452 and 1542. the variance of the PSI sample distribution is steady at 62.28356 and the standard deviation is reported at 7.892627 which is well within the the design specifications of not exceeding 100 pounds per square inch. The current manufacturing data meets the design specifications.
 
 
 ## T-Tests on Suspension Coils
-An RScript is written for t-test that compares all manufacturing lots against mean PSI of the population (5 pt)
-An RScript is written for three t-tests that compare each manufacturing lot against mean PSI of the population (10 pt)
-There is a summary of the t-test results across all manufacturing lots and for each lot (5 pt)
+<img src="readmepics/.png">
 
 ## Study Design: MechaCar vs Competiiton
 
