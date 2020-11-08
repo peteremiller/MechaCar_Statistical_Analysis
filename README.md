@@ -36,7 +36,7 @@ The 'total_summary' picture reveals that the mean is steady at 1498.78 in all 15
 <img src="readmepics/lot_summary2.png">
 <img src="readmepics/lot_summary3.png">
 
-Results of data analysis on the 3 suspension coil lots shows that Lot 1 and Lot 2 meet design specification because the variance and standard deviation are under 100 pounds per square inch. However, Lot 3 does not meet design specifications because variance and standard deviation are greater than 100 poounds per square inch.
+Results of data analysis on the 3 suspension coil lots shows that Lot 1 and Lot 2 meet design specification because the variance and standard deviation are under 100 pounds per square inch. However, Lot 3 does not meet design specifications because variance and standard deviation are greater than 100 pounds per square inch.
 
 ## T-Tests on Suspension Coils
 <img src="readmepics/deliverable3_all_lots.png">
