@@ -13,7 +13,7 @@ In the above picture, the variables/coefficents' p-values (Pr(>|t|)) are:
 
 
 ### 1.) Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-From the formula results it is possible to predict that the following variables/coefficients provide a non-random amount of variance to the mpg values: 
+From the formula results it is possible to predict that the following variables/coefficients provided a non-random amount of variance to the mpg values: 
  - vehicle weight(0.0776)
  - spoiler angle(0.3069)
  - AWD(All Wheel Drive)(0.1852) 
