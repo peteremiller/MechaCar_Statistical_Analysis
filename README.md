@@ -42,6 +42,7 @@ Results of data analysis on the 3 suspension coil lots shows that Lot 1 and Lot 
 <img src="readmepics/deliverable3_all_lots.png">
 <img src="readmepics/deliverable3_lot1.png">
 <img src="readmepics/deliverable3_lot2.png">
+
 <img src="readmepics/deliverable3_lot3.png">
 
 
