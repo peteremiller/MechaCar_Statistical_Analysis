@@ -30,8 +30,13 @@ According to the summary output, the r-squared value is 0.71, which predicts tha
 <img src="readmepics/total_summary_suspension.png">
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
-The 'total_summary' picture reveals that the mean is steady at 1498.78 in all 150 rows of the total_summary table. The variance is reported at 62.29356 for all 150 rows of the total_summary table. The standard deviation is reported at 7.892627 for all 150 rows of the total_summary table. The median value of the table varies between 1452 and 1542. the variance of the PSI sample distribution is steady at 62.28356 and the standard deviation is reported at 7.892627 which is well within the the design specifications of not exceeding 100 pounds per square inch. The current manufacturing data meets the design specifications.
+The 'total_summary' picture reveals that the mean is steady at 1498.78 in all 150 rows of the total_summary table. The variance is reported at 62.29356 for all 150 rows of the total_summary table. The standard deviation is reported at 7.892627 for all 150 rows of the total_summary table. The median value of the table varies between 1452 and 1542. the variance of the PSI sample distribution is steady at 62.28356 and the standard deviation is reported at 7.892627 which is well within the the design specifications of not exceeding 100 pounds per square inch.
 
+<img src="readmepics/lot_summary1.png">
+<img src="readmepics/lot_summary2.png">
+<img src="readmepics/lot_summary3.png">
+
+Results of data analysis on the 3 suspension coil lots shows that Lot 1 and Lot 2 meet design specification because the variance and standard deviation are under 100 pounds per square inch. However, Lot 3 does not meet design specifications because variance and standard deviation are greater than 100 poounds per square inch.
 
 ## T-Tests on Suspension Coils
 <img src="readmepics/.png">
