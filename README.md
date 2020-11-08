@@ -50,7 +50,7 @@ Results of data analysis on the 3 suspension coil lots predicts that Lot 1 and L
 <img src="readmepics/deliverable3_all_lots.png">
 <img src="readmepics/deliverable3_lot1.png">
 <img src="readmepics/deliverable3_lot2.png"> 
-
+<img src="readmepics/deliverable3_lot3a.png">
 
 The results of the t-test analysis reveals that the p-value for all lots is 0.06028 which is outside the signifigance level of 0.05 resulting in a confidence interval of 93.972%. Based on this prediction, there is not sufficient evidence to reject the null hypothesis. It may be stated that the dataset mean and the population mean are statistically similar. Also, the analysis predicts that the suspension coils dataset is statistically representative of the population mean. 
 
