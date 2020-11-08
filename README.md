@@ -44,6 +44,8 @@ Results of data analysis on the 3 suspension coil lots shows that Lot 1 and Lot 
 <img src="readmepics/deliverable3_lot2.png">
 <img src="readmepics/deliverable3_lot3.png">
 
+The results of the t-test analysis reveals that the p-value for all lots is 0.06028 which is outside the signifigance level of 0.05 resulting in a confidence interval of 93.972%. There is not sufficient evidence to reject the null hypothesis. It may be stated that the dataset mean and the population mean are statistically similar. Also, the analysis concludes that the suspension coils dataset is statistically representative of the population mean. 
+
 ## Study Design: MechaCar vs Competiiton
 
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
